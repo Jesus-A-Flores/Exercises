@@ -1,4 +1,4 @@
-//este codigo muestra la creacion de la matriz caracol paso a paso
+//este codigo muestra la creacion de la matriz espiral paso a paso
 #include <bits/stdc++.h>
 
 using namespace std; 
