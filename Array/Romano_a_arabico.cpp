@@ -67,7 +67,7 @@ int main(){
     if (verific(s)){
         numeroRomano(s);
     }else{
-        cout<<"Numero romano erroneo!"<<endl;
+        cout<<"Erro...!"<<endl;
     }
     return 0;
 }
